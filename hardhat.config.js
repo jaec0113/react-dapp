@@ -17,5 +17,9 @@ module.exports = {
     hardhat: {
       chaidId: 1337,
     },
+    // ropsten: {
+    //   url: "<url end point>",
+    //   accounts: [`0x${process.env.ACCOUNT_KEY}`]
+    // }
   },
 }
